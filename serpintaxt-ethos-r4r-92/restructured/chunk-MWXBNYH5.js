@@ -1,5 +1,5 @@
 // https://serpintaxt-ethos-r4r-92.deno.dev/_frsh/js/d9c6fc7afe7e786c1cd105af6ca4effc55fa4b88/chunk-MWXBNYH5.js
-// Claude Opus 4 - explaination and summary: https://claude.ai/share/2cfbff4a-c6da-4ae8-844c-e3579d107ede
+// Claude Opus 4 - explanation and summary: https://claude.ai/share/2cfbff4a-c6da-4ae8-844c-e3579d107ede
 
 import { a as M } from './chunk-5FHJHB3U.js';
 import { b as g, c as w } from './chunk-FJSXHW3L.js';
